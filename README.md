@@ -1,5 +1,7 @@
 Author : Elif SAVAŞ
+
 Database : SQlite
+
 Summary :Library Management System Application
 
 Purpose of this application:
