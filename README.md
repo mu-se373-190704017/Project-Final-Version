@@ -23,6 +23,8 @@ Regarding this application, you can see the books in the library and select the 
 
 
 ***Database Diagram***
+![android_sqlite_structure](https://user-images.githubusercontent.com/101062257/176177174-349de82c-2591-4940-bd2d-da6f7aa4550f.png)
+
 
 ![SQLite-database-schema-used-for-nwbindexer-Each-arrow-indicates-a-1M-one-to-many](https://user-images.githubusercontent.com/101062257/174196753-009ebbbb-e14c-4697-87a9-960996ea3ef5.png)
 
