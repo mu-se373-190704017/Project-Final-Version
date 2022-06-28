@@ -18,11 +18,16 @@ Regarding this application, you can see the books in the library and select the 
 
 
 ***Activity Diagram***
+![UML-class-diagram-for-SQLite-DB-Creator-component](https://user-images.githubusercontent.com/101062257/176178198-9bba68f4-9d6e-48a9-9cec-beb02606cbd1.png)
+
+
 
 ![Activity-diagram-for-login-in-the-system](https://user-images.githubusercontent.com/101062257/174196715-de792bd2-a9d7-480c-a9c7-22f3a8da5a2c.png)
 
 
 ***Database Diagram***
+
+
 ![Block-digram-of-ASQLC_Q320](https://user-images.githubusercontent.com/101062257/176177738-91287bcd-57d1-427a-aadc-896d9f0d4184.jpg)
 
 
